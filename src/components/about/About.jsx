@@ -7,7 +7,7 @@ import {BiHomeAlt} from 'react-icons/bi'
 
 const About = () => {
   return (
-    <section id='about'> <br/> <br/> 
+    <section id='about'> <br/>
       <h5> Get To Know </h5>
       <h2> About Me </h2>
 
