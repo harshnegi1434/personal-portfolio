@@ -10,7 +10,8 @@ const Footer = () => {
       <a href="/" className='footer_logo'> Harsh Negi </a>
       <br />
       <ul className='permalinks'>
-        <li> <a href="/"> Home </a> </li>
+        {/* eslint-disable-next-line */}
+        <li> <a href="#"> Home </a> </li>
         <li> <a href="#about"> About </a> </li>
         <li> <a href="#experience"> Skills </a> </li>
         <li> <a href="#portfolio"> Portfolio </a> </li>
