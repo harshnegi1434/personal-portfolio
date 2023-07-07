@@ -12,7 +12,8 @@ const Header = () => {
   React.useEffect(() => {
     const typed = new Typed(el.current, {
       strings: ['An Undergrad Student', '&amp; Enthusiatic Learner'],
-      typeSpeed: 50,
+      typeSpeed: 80,
+      loop: true
     });
 
     return () => {
