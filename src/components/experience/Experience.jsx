@@ -11,7 +11,7 @@ const Experience = () => {
        <div className='container experience__container'>
 
           <div className="experience__frontend">
-            <h3> FrontEnd Development </h3>
+            <h3> Frontend Development </h3>
             <div className='experience__content'> 
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' /> 
@@ -34,19 +34,19 @@ const Experience = () => {
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> React </h4>
+                  <h4> ReactJS </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> BootStrap </h4>
+                  <h4> BootStrapCSS </h4>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> Tailwiwnd </h4>
+                  <h4> TailwindCSS </h4>
                 </div>
               </article>
             </div>
@@ -89,84 +89,78 @@ const Experience = () => {
           </div>
 
           <div className="experience__frontend">
-            <h3> FrontEnd Development </h3>
+            <h3> Data Science Tools </h3>
             <div className='experience__content'> 
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' /> 
                 <div>
-                  <h4> HTML </h4>
+                  <h4> Hadoop </h4>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> CSS </h4>
+                  <h4> WEKA </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> JavaScript </h4>
+                  <h4> IBM Cognos </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> React </h4>
+                  <h4> IBM SPSS Modeller </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> BootStrap </h4>
+                  <h4> MS Excel </h4>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> Tailwiwnd </h4>
+                  <h4> Jupyter Notebook </h4>
                 </div>
               </article>
             </div>
           </div>
 
           <div className="experience__frontend">
-            <h3> FrontEnd Development </h3>
+            <h3> Python Libraries </h3>
             <div className='experience__content'> 
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' /> 
                 <div>
-                  <h4> HTML </h4>
+                  <h4> Tkinter </h4>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> CSS </h4>
+                  <h4> NLTK </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> JavaScript </h4>
+                  <h4> Pandas </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> React </h4>
+                  <h4> Numpy </h4>
                 </div>
               </article>
               <article className='experience__details'>
                <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> BootStrap </h4>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillCheckCircleFill className='experience__details-icon' />
-                <div>
-                  <h4> Tailwiwnd </h4>
+                  <h4> Flask </h4>
                 </div>
               </article>
             </div>
